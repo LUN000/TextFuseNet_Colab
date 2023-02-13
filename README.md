@@ -1,2 +1,2 @@
 # TextFuseNet_Colab
-Setup TextFuseNet on Colabing by using condacolab.
+Setup TextFuseNet on Colab by using condacolab.
